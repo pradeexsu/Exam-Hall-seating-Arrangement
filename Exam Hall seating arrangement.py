@@ -1,4 +1,5 @@
 from random import shuffle
+from pprint import pprint as printf
 from os import system
 import numpy as np
 
@@ -38,4 +39,4 @@ else:
     arr = np.array(seatingPlan, dtype=int).reshape((x, y, z))
 
 print()
-print(arr)
+printf(arr)
