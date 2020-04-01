@@ -1,5 +1,6 @@
 # Exam-Hall-seating-Arrangement
-Exam Hall seating arrangement Using Matrix 
+Exam Hall seating arrangement Using Matrix/numpy python
+
 
   ## Input
 
