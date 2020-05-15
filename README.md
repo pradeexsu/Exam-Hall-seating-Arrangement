@@ -1,5 +1,5 @@
 # Exam-Hall-seating-Arrangement
-Exam Hall seating arrangement Using Matrix/numpy python
+**Exam Hall seating arrangement _Using Matrix/numpy_ python**
 
 ![Python logo](logo.png)
 
