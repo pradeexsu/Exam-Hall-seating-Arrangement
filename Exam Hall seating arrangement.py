@@ -14,7 +14,9 @@ starting_Roll_number = int(input('Enter Starting Roll Number :'))
 ending_Roll_number = int(input('Enter Last Roll Number :'))
 number_of_row_in_room = int(input('Enter Number of Rows Room :'))
 number_of_col_in_room = int(input('Enter Number of Columns Room :'))
+
 system('color 1')
+
 number_of_Student_in_room = number_of_row_in_room * number_of_col_in_room
 total_number_of_Student = ending_Roll_number - starting_Roll_number + 1
 student_in_last_room = total_number_of_Student % number_of_Student_in_room
