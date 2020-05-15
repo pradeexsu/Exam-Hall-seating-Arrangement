@@ -1,7 +1,7 @@
 # Exam-Hall-seating-Arrangement
 Exam Hall seating arrangement Using Matrix/numpy python
 
-![](logo.png)
+![Python logo](logo.png)
 
   ## Input
 
