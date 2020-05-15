@@ -6,15 +6,15 @@
   ## Input
 
 
-Enter Starting Roll Number :3
+Enter Starting Roll Number : 3
 
-Enter Last Roll Number :29
+Enter Last Roll Number : 29
 
-Enter Number of Rows Room :4
+Enter Number of Rows Room : 4
 
-Enter Number of Columns Room :4
+Enter Number of Columns Room : 4
    ## Output
-[ 
+**[**
   
     [ 
   
@@ -38,4 +38,4 @@ Enter Number of Columns Room :4
       [  0  0  0  0 ] 
     ]
    
-  ]
+  **]**
