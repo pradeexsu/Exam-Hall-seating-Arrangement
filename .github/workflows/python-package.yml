@@ -34,4 +34,4 @@ jobs:
     - name: showing numpy
       run: pip3 show numpy 
     - name: Test with pytest
-      run: python3 ./Exam\ Hall\ seating\ arrangement.py -i in
+      run: python3 ./Exam\ Hall\ seating\ arrangement.py < in
