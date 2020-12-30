@@ -1,7 +1,7 @@
 from random import shuffle
 from pprint import pprint as printf
 from os import system
-import numpy as np
+#import numpy as np
 from copy import deepcopy as dc
 #######################################################
 ##          Name      : Pradeep Suthar               ##
